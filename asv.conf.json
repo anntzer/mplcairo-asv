@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "project": "mplcairo",
+    "project_url": "https://github.com/anntzer/mplcairo",
+    "repo": "https://github.com/anntzer/mplcairo.git",
+    // "branches": ["master"],
+    // "dvcs": "git",
+    "environment_type": "virtualenv",
+    // "install_timeout": 600,
+    "show_commit_url": "http://github.com/anntzer/mplcairo/commit/",
+    // "pythons": [],
+    "matrix": {
+        "pycairo": "",
+        "pybind11": "",
+        "pytest": ""
+    },
+    // "exclude": [],
+    // "include": [],
+    // "benchmark_dir": "benchmarks",
+    "env_dir": ".asv/env",
+    "results_dir": ".asv/results",
+    "html_dir": ".asv/html",
+    // "hash_length": 8,
+    // "wheel_cache_size": 0,
+    // "regressions_first_commits": {},
+    // "regressions_thresholds": {}
+}
+
+// vim: set ft=javascript :
